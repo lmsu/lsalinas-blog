@@ -9,7 +9,7 @@ header {
 }
 
 header .logo img {
-    width:35%; /* Ajusta el tamaño según tu logo */
+    width:10%; /* Ajusta el tamaño según tu logo */
     position: absolute;
     top: 5px;
     left:10px;
