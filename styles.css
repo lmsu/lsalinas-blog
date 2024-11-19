@@ -8,11 +8,12 @@ header {
     position: relative;
 }
 
-header .logo img {
+header .logo  img {
     width:10%; /* Ajusta el tamaño según tu logo */
     position: absolute;
     top: 5px;
     left:10px;
+    border-radius: 15px;
 }
 
 header h1 {
@@ -256,3 +257,12 @@ footer {
     padding: 10px 0;
     margin-top: 20px;
 }
+
+.redes-sociales img {
+    width:3%; /* Ajusta el tamaño según tu logo */
+    /* position: absolute; */
+    /* top: 5px; */
+    left:10px;
+}
+ 
+
